@@ -96,7 +96,7 @@ add the following records in the DNS for mydomain.com:
   node2.redislabscluster.mydomain.com   A    2.2.2.2
 ```
 
-### 2. Zero-configuration using mDNS (Development option only)
+### 2. Zero-configuration using mDNS (Development option only) {#2-zeroconfiguration-using-mdns-development-option-only}
 
 Note: mDNS is not supported for use with production environments and
 should only be used in dev/test environments.
